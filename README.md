@@ -115,8 +115,6 @@ img{
 ## OUTPUT:
 ![alt text](img1.png)
 
-![alt text](img2.png)
-
 ![alt text](img3.png)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
