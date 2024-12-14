@@ -48,6 +48,10 @@ index.html
 	<img class = "preview" alt = "Cute Puppy" src = "https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" onmouseover = "upDate(this)" onmouseout = "unDo()">
 	<img class = "preview" src = "https://images.pexels.com/photos/1648377/pexels-photo-1648377.jpeg?auto=compress&cs=tinysrgb&w=600" alt = "Baby" onmouseover = "upDate(this)" onmouseout = "unDo()">
     </div>
+    <footer id="footer" style="border: 1px solid black;">
+        <h2>Designed and developed by Dharsheni K</h2>
+    </footer>
+    
     <script src="script.js"></script>
 </body>
 </html>
@@ -113,5 +117,6 @@ img{
 
 ![alt text](img2.png)
 
+![alt text](img3.png)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
